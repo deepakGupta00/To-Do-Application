@@ -1,0 +1,49 @@
+INFO 2025-09-14 14:13:32,869 autoreload Watching for file changes with StatReloader
+INFO 2025-09-14 14:13:44,903 autoreload C:\Users\Deepak Kumar Gupta\Downloads\Assignment\todo_project\todo_project\settings.py changed, reloading.
+INFO 2025-09-14 14:13:48,346 autoreload Watching for file changes with StatReloader
+INFO 2025-09-14 14:13:53,591 views Fetching all tasks from database.
+INFO 2025-09-14 14:13:53,605 views Fetched 10 tasks successfully.
+INFO 2025-09-14 14:13:56,888 views Deleting task with ID 1.
+INFO 2025-09-14 14:13:56,912 views Task 1 deleted successfully.
+INFO 2025-09-14 14:13:56,922 views Fetching all tasks from database.
+INFO 2025-09-14 14:13:56,926 views Fetched 9 tasks successfully.
+INFO 2025-09-14 14:13:58,786 views Deleting task with ID 7.
+INFO 2025-09-14 14:13:58,804 views Task 7 deleted successfully.
+INFO 2025-09-14 14:13:58,819 views Fetching all tasks from database.
+INFO 2025-09-14 14:13:58,825 views Fetched 8 tasks successfully.
+INFO 2025-09-14 14:13:59,876 views Deleting task with ID 8.
+INFO 2025-09-14 14:13:59,909 views Task 8 deleted successfully.
+INFO 2025-09-14 14:13:59,945 views Fetching all tasks from database.
+INFO 2025-09-14 14:13:59,963 views Fetched 7 tasks successfully.
+INFO 2025-09-14 14:14:01,663 views Deleting task with ID 11.
+INFO 2025-09-14 14:14:01,710 views Task 11 deleted successfully.
+INFO 2025-09-14 14:14:01,743 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:01,798 views Fetched 6 tasks successfully.
+INFO 2025-09-14 14:14:21,335 views Adding new task: Coding Master
+INFO 2025-09-14 14:14:21,355 views Task added successfully.
+INFO 2025-09-14 14:14:21,377 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:21,389 views Fetched 7 tasks successfully.
+INFO 2025-09-14 14:14:28,297 views Adding new task: sdva
+INFO 2025-09-14 14:14:28,318 views Task added successfully.
+INFO 2025-09-14 14:14:28,324 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:28,335 views Fetched 8 tasks successfully.
+INFO 2025-09-14 14:14:31,735 views Adding new task: sffj
+INFO 2025-09-14 14:14:31,768 views Task added successfully.
+INFO 2025-09-14 14:14:31,781 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:31,791 views Fetched 9 tasks successfully.
+INFO 2025-09-14 14:14:34,254 views Marking task 20 as completed.
+INFO 2025-09-14 14:14:34,271 views Task 20 marked as completed.
+INFO 2025-09-14 14:14:34,274 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:34,279 views Fetched 9 tasks successfully.
+INFO 2025-09-14 14:14:35,120 views Deleting task with ID 20.
+INFO 2025-09-14 14:14:35,138 views Task 20 deleted successfully.
+INFO 2025-09-14 14:14:35,151 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:35,160 views Fetched 8 tasks successfully.
+INFO 2025-09-14 14:14:37,135 views Deleting task with ID 19.
+INFO 2025-09-14 14:14:37,150 views Task 19 deleted successfully.
+INFO 2025-09-14 14:14:37,159 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:37,164 views Fetched 7 tasks successfully.
+INFO 2025-09-14 14:14:41,025 views Marking task 18 as completed.
+INFO 2025-09-14 14:14:41,043 views Task 18 marked as completed.
+INFO 2025-09-14 14:14:41,054 views Fetching all tasks from database.
+INFO 2025-09-14 14:14:41,062 views Fetched 7 tasks successfully.
