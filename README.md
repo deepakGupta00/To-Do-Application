@@ -82,6 +82,12 @@ We use `pytest` for testing API endpoints.
 pip install pytest pytest-django
 pytest -v
 
+### Logging
+
+This project uses Python's built-in `logging` module to record application events.
+
+### Log Location
+Logs are saved in the root directory as `todo_app.log`.
 
 ### Folder Overview
 
@@ -90,5 +96,6 @@ pytest -v
 - [`todo_project/settings.py`](todo_project/settings.py) - Django settings.
 
 ---
+
 
 **Made with Django & Bootstrap 5**
